@@ -1,1 +1,3 @@
-# sign-lang
+# TensorFlow Northwest
+
+# sign-lang code-along
