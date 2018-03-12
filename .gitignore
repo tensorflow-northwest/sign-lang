@@ -38,6 +38,7 @@ ehthumbs.db
 Thumbs.db
 output/
 ssd*
+__MACOSX
 
 # Repo
 ######################
